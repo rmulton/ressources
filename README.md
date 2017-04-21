@@ -10,3 +10,4 @@ https://arxiv.org/pdf/1603.04467.pdf
 http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/
 https://hackernoon.com/machine-learning-with-tensorflow-8873fdee2b68
 https://github.com/BinRoot/TensorFlow-Book
+https://github.com/sjchoi86/advanced-tensorflow
