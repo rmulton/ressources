@@ -1,6 +1,9 @@
 # Ressources
 Interesting ressources
 
+# Python
+http://www.pitt.edu/~naraehan/python2/index.html
+
 # Tensorflow
 http://web.stanford.edu/class/cs20si/
 https://kwotsin.github.io/tech/2017/01/29/tfrecords.html
