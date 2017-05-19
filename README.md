@@ -3,6 +3,7 @@ Interesting ressources
 
 # Python
 http://www.pitt.edu/~naraehan/python2/index.html
+https://pythontips.com/
 
 # Tensorflow
 http://web.stanford.edu/class/cs20si/
